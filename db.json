@@ -11,6 +11,12 @@
       "username": "fajar",
       "password": "11",
       "email": "fajar@gmail.com"
+    },
+    {
+      "id": "3",
+      "username": "syafa",
+      "password": "25",
+      "email": "syafa@gmail.com"
     }
   ]
 }
